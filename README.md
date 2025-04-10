@@ -29,15 +29,15 @@ DormU uses the following resources:
 
 ## Mockup Sketches
 What new users will experience before logging in
-<img src="DormU-LandingNewUser.png"></img>
+<img src="DormU-LandingNewUser.png">
 
 What users will see after logging in
-<img src="DormU-LandingReturningUser.png"></img>
+<img src="DormU-LandingReturningUser.png">
 
 What users profile page would look like
-<img src="DormU-Profile.png"></img>
+<img src="DormU-Profile.png">
 
 Concept Art for different features (Events, Messages, Explore)
-<img src="DormU-EventsCalendar.png"></img>
-<img src="DormU-Messages.png"></img>
-<img src="DormU-Explore.png"></img>
+<img src="DormU-EventsCalendar.png">
+<img src="DormU-Messages.png">
+<img src="DormU-Explore.png">
