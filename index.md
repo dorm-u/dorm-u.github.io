@@ -48,7 +48,7 @@ DormU uses the following resources:
 # Milestone 1
 
 ## Vercel Link
-[Click here to see the live website!]()
+[Click here to see the live website!]() (Not yet working)
 
 ## Mockup Sketches
 What new users will experience before logging in
