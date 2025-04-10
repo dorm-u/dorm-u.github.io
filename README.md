@@ -25,7 +25,10 @@ DormU uses the following resources:
 # Milestone 1
 
 ## Mockup Sketches
-<img ref=DormU-Explore.png></img>
-<img ref=DormU-LandingNewUser.png></img>
-<img ref=#></img>
-<img ref=#></img>
+<img src="DormU-Explore.png"></img>
+<img src="DormU-LandingNewUser.png"></img>
+<img src=#></img>
+<img src=#></img>
+
+## Vercel Link
+(Add Here)
