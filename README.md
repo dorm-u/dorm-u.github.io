@@ -24,11 +24,20 @@ DormU uses the following resources:
 
 # Milestone 1
 
-## Mockup Sketches
-<img src="DormU-Explore.png"></img>
-<img src="DormU-LandingNewUser.png"></img>
-<img src=#></img>
-<img src=#></img>
-
 ## Vercel Link
 (Add Here)
+
+## Mockup Sketches
+What new users will experience before logging in
+<img src="DormU-LandingNewUser.png"></img>
+
+What users will see after logging in
+<img src="DormU-LandingReturningUser.png"></img>
+
+What users profile page would look like
+<img src="DormU-Profile"></img>
+
+Concept Art for different features (Events, Messages, Explore)
+<img src="DormU-EventsCalendar.png"></img>
+<img src="DormU-Messages.png"></img>
+<img src="DormU-Explore.png"></img>
