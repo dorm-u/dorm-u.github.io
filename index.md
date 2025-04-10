@@ -16,7 +16,7 @@ DormU is an application that allows UH housing residents within the same floor t
 # Project Planning and Proposal
 
 ## Members
-Corvey Lee ([Github(https://github.com/corveylee))
+Corvey Lee ([Github](https://github.com/corveylee))
 
 Anh Nguyen ([Github](https://github.com/anh-ngoc-nguyen))
 
