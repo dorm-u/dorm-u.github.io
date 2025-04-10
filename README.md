@@ -24,4 +24,9 @@ DormU uses the following resources:
 
 # Milestone 1
 
+
 ## Mockup Sketches
+<img ref=#></img>
+<img ref=#></img>
+<img ref=#></img>
+<img ref=#></img>
