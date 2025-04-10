@@ -64,3 +64,5 @@ Concept Art for different features (Events, Messages, Explore)
 <img src="DormU-EventsCalendar.png">
 <img src="DormU-Messages.png">
 <img src="DormU-Explore.png">
+
+Created by UH students, for UH students.
