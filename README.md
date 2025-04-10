@@ -7,26 +7,25 @@ DormU is an application that allows University of Hawaii at Manoa dormitary resi
 
 # Project Planning and Proposal
 
-## Deployment
-DormU uses the following resources:
-- Bootstrap for styling
-- React for JS
-- NextJS
-- Prisma for model handling
-- Postgres for database storing
-- Vercel for live server hosting
-
 ## Team Contract
 [Team Contract](https://docs.google.com/document/d/1Qm1v_5a2nuVIiFUtSyt9DgEoI1dggFdNf_GunExgGYE/edit?usp=sharing)
 
 ## Project Proposal
 [Team Presentation](https://docs.google.com/presentation/d/1vgJbArzciW5jrLGX2hNoa8ToWXGg1KQTVep5UJC3eXg/edit?usp=sharing)
 
+## Deployment
+DormU uses the following resources:
+- Bootstrap for CSS Framework for UI design.
+- React for Javascript-Style UI Components
+- NextJS for better framework design
+- Prisma for model handling
+- Postgres for database storing
+- Vercel for live server hosting
+
 # Milestone 1
 
-
 ## Mockup Sketches
-<img ref=#></img>
-<img ref=#></img>
+<img ref=DormU-Explore.png></img>
+<img ref=DormU-LandingNewUser.png></img>
 <img ref=#></img>
 <img ref=#></img>
