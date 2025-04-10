@@ -35,7 +35,7 @@ What users will see after logging in
 <img src="DormU-LandingReturningUser.png"></img>
 
 What users profile page would look like
-<img src="DormU-Profile"></img>
+<img src="DormU-Profile.png"></img>
 
 Concept Art for different features (Events, Messages, Explore)
 <img src="DormU-EventsCalendar.png"></img>
