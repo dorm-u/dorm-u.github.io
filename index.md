@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DormU
 filename: index
 --- 
 
