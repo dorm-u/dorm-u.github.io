@@ -1,3 +1,5 @@
+[Home](/index) &nbsp;&nbsp;&nbsp; [Milestone 1](/milestone1) &nbsp;&nbsp;&nbsp; [Milestone 2](./milestone2) &nbsp;&nbsp;&nbsp; [Milestone 3](./milestone3) <br>
+
 ## Vercel Link
 [Click here to see the live website!](https://dorm-u-app.vercel.app/)
 
