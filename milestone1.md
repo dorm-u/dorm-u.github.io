@@ -1,5 +1,3 @@
-# Milestone 1
-
 ## Vercel Link
 [Click here to see the live website!](https://dorm-u-app.vercel.app/)
 
