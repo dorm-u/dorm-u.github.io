@@ -3,6 +3,19 @@
 # DormU 
 DormU is an application that allows University of Hawaii at Manoa dormitary residents within the same floor to connect and communicate with their Resident Assistant (RA) as well as other members of the community. Residents can chat and share media with each other to show what they have been up to. RA's can remind their residents of important updates or announcement within their community. 
 
+# Project Links (External)
+[**Live Project Site**](https://dorm-u-app.vercel.app/)
+
+[**Application Page (This page)**](https://dorm-u.github.io/)
+
+[**View Github Organization**](https://github.com/dorm-u)
+
+[**View Github Project Repo**](https://github.com/dorm-u/dorm-u-app)
+
+[**View M1 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/1/views/1)
+
+
+
 # Table of Contents
 - [The Why?](#the-why)
 - [Project Planning and Proposal](#project-planning-and-proposal)
