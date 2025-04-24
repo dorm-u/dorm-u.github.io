@@ -1,4 +1,4 @@
-<img src="img/dormu-logo.png" alt="DormU Logo" style= "width:100px; padding-left:20"/>
+# <img src="img/dormu-logo.png" alt="DormU Logo" style= "width:100px; padding-left:20"/>
 
 * [Overview](/index)
 * [User Guide](/user-guide.md)
