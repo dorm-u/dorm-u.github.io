@@ -1,7 +1,8 @@
 [Overview](/index) &nbsp;&nbsp;&nbsp;
 [User Guide](/user-guide.md)  &nbsp;&nbsp;&nbsp;  
 [Developer Guide](/developer-guide.md)  &nbsp;&nbsp;&nbsp; 
-[Milestone 1](/milestone1) &nbsp;&nbsp;&nbsp; [Milestone 2](./milestone2) &nbsp;&nbsp;&nbsp; [Milestone 3](./milestone3) <br>
+[Development History](/dev-history.md) &nbsp;&nbsp;&nbsp; 
+[Contact us](/contact-us.md) <br>
 
 # Overview 
 DormU is an application that allows University of Hawaii at Manoa dormitary residents within the same floor to connect and communicate with their Resident Assistant (RA) as well as other members of the community. Residents can chat and share media with each other to show what they have been up to. RA's can remind their residents of important updates or announcement within their community. 
@@ -17,34 +18,12 @@ DormU is an application that allows University of Hawaii at Manoa dormitary resi
 
 [**View M1 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/1/views/1)
 
-
-
-# Table of Contents
-- [The Why?](#the-why)
-- [Project Planning and Proposal](#project-planning-and-proposal)
-- [Milestone 1](#milestone-1)
-
 # The Why?
 Purpopse: 
 Being a resident advisor (RA) in the on-campus dormitories, a common obstacle we face is building community and finding ways to build communication and connections throughout the floor. Although there have been steps to take a digital approach, most are too complex or lack features that would make it worth resident’s use.
 
 Solution:
 DormU is an application that allows UH housing residents within the same floor to connect and communicate with their RA as well as other members of the community.
-
-# Project Planning and Proposal
-
-## Members
-Corvey Lee ([Github](https://github.com/corveylee))
-
-Anh Nguyen ([Github](https://github.com/anh-ngoc-nguyen))
-
-Yuna Soo ([Github](https://github.com/yunasoo))
-
-## Team Contract
-[Team Contract](https://docs.google.com/document/d/1Qm1v_5a2nuVIiFUtSyt9DgEoI1dggFdNf_GunExgGYE/edit?usp=sharing)
-
-## Project Proposal
-[Team Presentation](https://docs.google.com/presentation/d/1vgJbArzciW5jrLGX2hNoa8ToWXGg1KQTVep5UJC3eXg/edit?usp=sharing)
 
 ## Deployment
 DormU uses the following resources:

@@ -1,7 +1,8 @@
 [Overview](/index) &nbsp;&nbsp;&nbsp;
 [User Guide](/user-guide.md)  &nbsp;&nbsp;&nbsp;  
 [Developer Guide](/developer-guide.md)  &nbsp;&nbsp;&nbsp; 
-[Milestone 1](/milestone1) &nbsp;&nbsp;&nbsp; [Milestone 2](./milestone2) &nbsp;&nbsp;&nbsp; [Milestone 3](./milestone3) <br>
+[Development History](/dev-history.md) &nbsp;&nbsp;&nbsp; 
+[Contact us](/contact-us.md) <br>
 
 # How to install and modify this project
 
