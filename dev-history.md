@@ -38,7 +38,26 @@ Concept Art for different features (Events, Messages, Explore)
 
 # Milestone 2
 
+## Links for M2
+
+### [Live Website]()
+### [Github Project Repo](https://github.com/dorm-u/dorm-u-app/tree/profile-page)
+### [M2 Issues](https://github.com/orgs/dorm-u/projects/4/views/2)
+
+
 ## Changelog
+* Implemented Calendar, Profile, Messages, and RA page 
+* **Added PostegreSQL read and write to the profile page**
+* Updated prisma schematic for user roles
+* Overhauled project homepage and added user guide and developer guide
+* Implemented contiguous integration on Github
+
+## Live site screenshots
 
 # Milestone 3
-To be continued...
+## Links for M3
+### [M3 Issues]()
+
+## Changelog
+* None yet
+
