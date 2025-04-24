@@ -1,3 +1,5 @@
+![DormU Logo](img/dormu-logo.png "DormU Logo")
+
 * [Overview](/index)
 * [User Guide](/user-guide.md)
 * [Developer Guide](/developer-guide.md)
