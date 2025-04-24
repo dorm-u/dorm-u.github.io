@@ -1,8 +1,8 @@
-[Overview](/index) &nbsp;&nbsp;&nbsp;
-[User Guide](/user-guide.md)  &nbsp;&nbsp;&nbsp;  
-[Developer Guide](/developer-guide.md)  &nbsp;&nbsp;&nbsp; 
-[Development History](/dev-history.md) &nbsp;&nbsp;&nbsp; 
-[Contact us](/contact-us.md) <br>
+* [Overview](/index)
+* [User Guide](/user-guide.md)
+* [Developer Guide](/developer-guide.md)
+* [Development History](/dev-history.md) 
+* [Contact us](/contact-us.md) <br>
 
 # Overview 
 DormU is an application that allows University of Hawaii at Manoa dormitary residents within the same floor to connect and communicate with their Resident Assistant (RA) as well as other members of the community. Residents can chat and share media with each other to show what they have been up to. RA's can remind their residents of important updates or announcement within their community. 

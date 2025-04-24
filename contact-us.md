@@ -1,8 +1,8 @@
-[Overview](/index) &nbsp;&nbsp;&nbsp;
-[User Guide](/user-guide.md)  &nbsp;&nbsp;&nbsp;  
-[Developer Guide](/developer-guide.md)  &nbsp;&nbsp;&nbsp; 
-[Development History](/dev-history.md) &nbsp;&nbsp;&nbsp; 
-[Contact us](/contact-us.md) <br>
+* [Overview](/index)
+* [User Guide](/user-guide.md)
+* [Developer Guide](/developer-guide.md)
+* [Development History](/dev-history.md) 
+* [Contact us](/contact-us.md) <br>
 
 # Contact Us
 The DormU application was made solely by the orginzation [DormU](https://github.com/dorm-u). The members and agreement of this organization is as follows.
