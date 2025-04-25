@@ -49,7 +49,7 @@ Concept Art for different features (Events, Messages, Explore)
 
 ## Changelog
 * Implemented Calendar, Profile, Messages, and RA page 
-* **Added PostegreSQL read and write to the profile page**
+* **Added PostegreSQL write to the profile page (Read not working yet)**
 * Updated prisma schematic for user roles
 * Overhauled project homepage and added user guide and developer guide
 * Implemented contiguous integration on Github
