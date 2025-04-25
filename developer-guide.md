@@ -13,6 +13,7 @@
 ## Download Project
 Open this project in Github and create a fork of the repository.
 
+![Code](img/DevGuide-Code.png)
 Press code button and open using Github Desktop.
 
 *If you would like to use the raw files instead, you may download them here [not yet implemented]()*
@@ -20,6 +21,7 @@ Press code button and open using Github Desktop.
 ## Setup Project
 Open the project in your IDE and install dependencies using the following command in a project terminal
 
+![npm](img/DevGuide-npm.png)
 ```
 $ npm install
 ```
@@ -34,6 +36,8 @@ $ npm run dev
 ## Setup Postgre
 The DormU application uses [PostgreSQL](https://www.postgresql.org/) to manage database and entity relationships. 
 
+![Postgres](img/DevGuide-Postgres.png)
+
 Navigate to the sample.env file and rename it to .env
 
 Modify the .env file to point to your local postgresql server (or live server if you have one)
@@ -46,6 +50,7 @@ $ npx prisma db seed
 
 Close the running build (if it is running) using Ctrl+C on the terminal and refresh the client using 
 
+![Run](img/DevGuide-Run.png)
 ```
 $ npm run dev
 ```
