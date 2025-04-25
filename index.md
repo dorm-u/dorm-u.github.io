@@ -1,4 +1,6 @@
 # <img src="img/dormu-logo.png" alt="DormU Logo" style= "width:100px; padding-left:20"/>
+![ci-badge](https://github.com/dorm-u/dorm-u-app/workflows/ci-dorm-u/badge.svg)
+
 
 * [Overview](/index)
 * [User Guide](/user-guide.md)
