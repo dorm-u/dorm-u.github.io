@@ -55,6 +55,22 @@ Concept Art for different features (Events, Messages, Explore)
 * Implemented contiguous integration on Github
 
 ## Live site screenshots
+The landing page, before logging in
+<img src="img/DormU-M2-Landing.png">
+
+An events/calendar page where announcements & upcoming activities are posted
+<img src="img/DormU-M2-Events.png">
+<img src="img/DormU-M2-Events2.png">
+
+A sample profile format on DormU
+<img src="img/DormU-M2-Profile.png">
+
+Where users can chat between eachother, floors, dorms, etc
+<img src="img/DormU-M2-Messages.png">
+
+What the RAs (Admins) will see on their dashboard
+<img src="img/DormU-M2-RA-Admin.png">
+<img src="img/DormU-M2-RA-Admin2.png">
 
 # Milestone 3
 ## Links for M3
