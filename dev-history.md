@@ -75,7 +75,9 @@ What the RAs (Admins) will see on their dashboard
 
 # Milestone 3
 ## Links for M3
-### [M3 Issues]()
+### [Live Website](https://dorm-u-app.vercel.app/)
+### [Github Project Repo](https://github.com/dorm-u/dorm-u-app/tree/profile-page)
+### [M3 Issues](https://github.com/orgs/dorm-u/projects/5/views/1)
 
 ## Changelog
 * Implemented Functionality for events and profile page
