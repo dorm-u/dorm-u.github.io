@@ -22,6 +22,8 @@ DormU is an application that allows University of Hawaii at Manoa dormitary resi
 
 [**View M1 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/1/views/1)
 
+[**View M2 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/4/views/1)
+
 # The Why?
 Purpopse: 
 Being a resident advisor (RA) in the on-campus dormitories, a common obstacle we face is building community and finding ways to build communication and connections throughout the floor. Although there have been steps to take a digital approach, most are too complex or lack features that would make it worth resident’s use.
