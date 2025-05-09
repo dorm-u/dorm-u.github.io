@@ -77,5 +77,13 @@ What the RAs (Admins) will see on their dashboard
 ### [M3 Issues]()
 
 ## Changelog
-* None yet
+* Implemented Functionality for events and profile page
+* Implemented Roles and Resident Assistant privilages
+* Implemented Messages
+* Added a FAQ page
+* Contact Page to Contact RA
+* Added user reviews to Project homepage
+* Updated user guide and developer history
+
+## Live site screenshots
 
