@@ -5,7 +5,7 @@
 * [Developer Guide](/developer-guide.md)
 * [Development History](/dev-history.md)
 * [Community Feedback](/community-feedback.md) 
-* [Contact us](/contact-us.md) <br>
+* [Contact us](/contact-us.md) <br> 
 
 # User Guide
 Here you can read about the various features you can currently do in the DormU application.
