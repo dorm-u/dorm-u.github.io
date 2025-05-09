@@ -89,4 +89,14 @@ What the RAs (Admins) will see on their dashboard
 * Updated user guide and developer history
 
 ## Live site screenshots
+The new FAQ page where first time users can familiarize themselves with DormU
+<img src="img/DormU-M3-FAQ.png">
 
+Contact page where users can get in touch with RAs
+<img src="img/DormU-M3-Contact.png">
+
+Our Mealshare Program that allows users to exchange meals with one another
+<img src="img/DormU-M3-Mealshare.png">
+
+Users can now edit the contents of their profile
+<img src="img/DormU-M3-EditProfile.png">
