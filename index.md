@@ -5,8 +5,8 @@
 * [Overview](/index)
 * [User Guide](/user-guide.md)
 * [Developer Guide](/developer-guide.md)
-* [User Reviews](/user-reviews.md)
-* [Development History](/dev-history.md) 
+* [Development History](/dev-history.md)
+* [Community Feedback](/community-feedback.md) 
 * [Contact us](/contact-us.md)<br>
 
 # Overview 
@@ -22,6 +22,10 @@ DormU is an application that allows University of Hawaii at Manoa dormitary resi
 [**View Github Project Repo**](https://github.com/dorm-u/dorm-u-app)
 
 [**View M1 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/1/views/1)
+
+[**View M2 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/4/views/1)
+
+[**View M3 Issues and Workflow**](https://github.com/orgs/dorm-u/projects/5/views/1)
 
 # The Why?
 Purpopse: 

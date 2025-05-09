@@ -3,9 +3,9 @@
 * [Overview](/index)
 * [User Guide](/user-guide.md)
 * [Developer Guide](/developer-guide.md)
-* [User Reviews](/user-reviews.md)
-* [Development History](/dev-history.md) 
-* [Contact us](/contact-us.md) <br>
+* [Development History](/dev-history.md)
+* [Community Feedback](/community-feedback.md) 
+* [Contact us](/contact-us.md) <br> 
 
 # User Guide
 Here you can read about the various features you can currently do in the DormU application.
@@ -23,8 +23,9 @@ Users are able to log in using their email address and a password of thier choic
 Users with specific email addresses will automatically be given the RA role and have administrative privilages. 
 
 ## Calendar Page
-![Calendar](img/DormU-M2-Events2.png)
-Users will be able to see upcoming events on the calendar. There are two views, one for the current week and one for the current month. Currently, nothing can be added to the calendar.
+![Calendar - Week View](img/DormU-M2-Events.png)
+![Calendar - Month View](img/DormU-M2-Events2.png)
+Users will be able to see upcoming events on the calendar. There are two views, one for the current week and one for the current month. Currently, nothing can be added to the calendar but future announcements from RAs will soon be implemented.
 
 ## Profile Page
 ![Profile](img/DormU-M2-Profile.png)
@@ -35,7 +36,7 @@ All logged in users have a unique profile page, which they can customise to thei
 Users can also see a history of their previous posts.
 
 ## Messages Page
-![Messages](img/DormU-Messages.png)
+![Messages](img/DormU-M2-Messages.png)
 The messages page includes messaging in different chat rooms based on floor and room assignment. 
 
 There is also a section for private messaging, which also allows for creating group messages as well. 
@@ -44,5 +45,5 @@ There is also a section for private messaging, which also allows for creating gr
 ![RA1](img/DormU-M2-RA-Admin.png)
 The RA Page is only accessable to those who have the RA role. Users are able to create announcements that will be broadcast to all residents specified. 
 
-![RA2](img/DormU-Profile.png)
+![RA2](img/DormU-M2-RA-Admin2.png)
 They are also able to see feedback from residents and any concerns that they may have, 
