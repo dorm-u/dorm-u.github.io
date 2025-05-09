@@ -5,7 +5,8 @@
 * [Overview](/index)
 * [User Guide](/user-guide.md)
 * [Developer Guide](/developer-guide.md)
-* [Development History](/dev-history.md) 
+* [Development History](/dev-history.md)
+* [Community Feedback](/community-feedback.md) 
 * [Contact us](/contact-us.md)<br>
 
 # Overview 
