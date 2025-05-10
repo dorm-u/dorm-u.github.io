@@ -43,8 +43,24 @@ I think that the system is pretty good conceptually. I wish there were more feau
 * Not enough feautures
 * Wish there was a bit more customization
 
-## User 4
-Insert user 4 feedback here.
+## Anonymous ICS Student
+The potential for this application is there and I like the overall aesthetic/UI. I wish I got to see more of it implemented.
 
-## User 5
-Insert user 5 feedback here.
+### Pros:
+* Very organized with dorm, room, and role separations
+* Has a clear purpose and intention
+
+### Cons:
+* Functionality is not quite there yet
+* Can be expanded to other UH campuses not just Manoa
+
+## Anonymous ICS Student
+In my freshman year we had a similar app to connect the students in the dorms but DormU offers unique aspects like the Mealshare Program that makes it more enticing to use.
+
+### Pros:
+* Feedback box to the RAs is useful especially if anonymous
+* Events/announcements all in one place
+
+### Cons:
+* Mealshare Program should be advertised more
+* Wish there was a map to accompany the events calendar
